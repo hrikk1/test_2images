@@ -1,6 +1,6 @@
-# 🧠 2画像位置合わせプロジェクト (test_2images)
+# 🧠 2 images registration (test_2images)
 
-高精度な画像位置合わせを実現するためのPythonプロジェクトです。SimpleITK、OpenCV、scikit-imageを使用した包括的な画像レジストレーション機能を提供します。
+高精度な画像位置合わせを実現するためのPythonプロジェクト SimpleITK、OpenCV、scikit-imageを使用した包括的な画像レジストレーション機能を提供
 
 Testing the approach of Image Registration by using 2 test images
 
