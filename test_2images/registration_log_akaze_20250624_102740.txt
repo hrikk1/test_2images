@@ -1,0 +1,14 @@
+特徴点ベースレジストレーション処理ログ
+処理日時: 2025-06-24 10:27:40.003922
+Fixed image: test2slices/cropped_MMP_109_x4_largest copy.tif
+Moving image: test2slices/cropped_MMP_110_x4_largest copy.tif
+特徴点数 - Fixed: 8293, Moving: 10452
+マッチ数: 468
+RANSAC inliers: 169
+アフィン変換行列:
+[[ 9.01617674e-01 -4.32960863e-01  4.69364318e+02]
+ [ 4.32960863e-01  9.01617674e-01 -2.29540718e+02]]
+評価指標:
+  相関係数: -0.1447
+  SSIM: 0.4352
+  NRMSE: 0.5328
