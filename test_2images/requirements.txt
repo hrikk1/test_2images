@@ -1,0 +1,25 @@
+# Feature-Based TPS Brain Image Registration Requirements
+# Tested with Python 3.13.2 (Conda)
+
+# Core computer vision and image processing
+opencv-contrib-python==4.11.0.86
+scikit-image==0.25.2
+
+# Scientific computing
+numpy==2.2.6
+scipy==1.15.3
+
+# Visualization
+matplotlib==3.10.3
+
+# Jupyter environment
+jupyter==1.1.1
+ipywidgets==8.1.5
+
+# Image I/O
+pillow==11.1.0
+tifffile==2025.2.13
+
+# Optional: for additional functionality
+# scikit-learn  # for additional machine learning utilities
+# seaborn       # for enhanced statistical visualization
